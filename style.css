@@ -1,0 +1,6 @@
+body{background:#0d0f0e;color:#b9c4bb;font:14px/1.75 Georgia,serif;margin:0}main{max-width:800px;margin:0 auto;padding:1rem}
+nav{border-bottom:1px solid #2a312c;padding:.6rem 1rem;text-align:center;font:12px monospace;letter-spacing:2px}nav a{color:#7f9a87;margin:0 .7rem;text-decoration:none}nav a:hover{color:#fff}
+h1{letter-spacing:6px;font-weight:400}h2{font:13px monospace;letter-spacing:3px;color:#7f9a87;border-bottom:1px solid #2a312c;padding-bottom:4px;margin-top:2rem}
+.s{border:1px solid #2a312c;padding:.8rem 1rem;margin:.8rem 0}.m{color:#6d776f;font-size:12px}.x{background:#b9c4bb;color:#b9c4bb}
+.t{display:flex;flex-wrap:wrap;gap:6px}.c{border:1px solid #2a312c;padding:6px 9px;cursor:pointer;width:215px;font:12px monospace}.c:hover{border-color:#4a7c59}
+#p{border:1px solid #4a7c59;padding:.8rem;margin-top:.8rem;display:none}input{background:none;border:1px solid #2a312c;color:inherit;padding:6px;font:inherit;width:60%}button{background:none;border:1px solid #2a312c;color:inherit;padding:6px 12px;cursor:pointer}pre{white-space:pre-wrap;font:13px monospace}footer{font:10px monospace;color:#3d453f;text-align:center;padding:2rem}
