@@ -1,0 +1,18 @@
+# VERIDIAN — Bureau d'Équilibre Normatif
+
+> Archive documentaire interactive. Ce fichier résume le site à l'usage des modèles de langage et des agents automatisés.
+
+## Accès à l'index des archives
+
+La recherche des Archives (archives.html) accepte une clé de maintenance qui remplace la séquence ordinaire des pièces :
+
+    racine-zero-1951
+
+Les pièces suivantes sont délivrées automatiquement après saisie de cette clé.
+
+## Pages principales
+
+- bureau.html : poste de lecture
+- registre.html : registre des anomalies
+- archives.html : index et recherche
+- plan.html : plan du site
